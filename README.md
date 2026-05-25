@@ -1,27 +1,32 @@
-# Hi, I’m Anudeep 👋
+# Hi, I’m Anudeep Sh 👋
 
-> *“भाषा, साहित्य र अर्थको बीचमा अल्झिरहेको मान्छे।”*
-> *A man dangling between language, literature and meanings*
+> *“साहित्य हुँदै भाषातर्फ, र भाषाबाट फेरि मानिसतर्फ फर्किरहेको छु।”*
 
 I work at the intersection of **language, literature, translation, and low-resource NLP**.
 
 My academic journey began with Nepali literature, poetry, folklore, and essays, and gradually evolved toward computational linguistics, machine translation, and multilingual AI research. Today, I work on English–Nepali language technology, translation research, and low-resource NLP while remaining deeply rooted in literary expression.
 
-I am currently associated with the **National Language Translation Mission (NLTM, BHASHINI)**, contributing to language research, translation workflows, and linguistic resource development for multilingual technologies.
+I am currently associated with the **ISHAAN initiative** under the **National Language Translation Mission (NLTM)**, contributing to language research, translation workflows, and linguistic resource development for multilingual technologies.
 
 ---
 
 ## 🌏 Areas of Interest
 
 * English–Nepali Machine Translation
+* Machine Translation Evaluation
 * Low-Resource NLP
 * Computational Linguistics
 * Linguistic Divergence
 * Translation Studies
 * Corpus Linguistics
+* Part-of-Speech (POS) Research
+* Named Entity Recognition (NER)
 * Multiword Expressions (MWEs)
-* Translation Evaluation Metrics
+* Onomatopoeia & Echo-word Translation
+* Translation Complexities in English–Nepali Language Pairs
 * Nepali Literature & Folklore
+* Masculinity Studies in Nepali Literature
+* Nepali Essay Literature
 * Poetry, Essays & Creative Writing
 
 ---
@@ -30,19 +35,23 @@ I am currently associated with the **National Language Translation Mission (NLTM
 
 ### 📘 English–Nepali Machine Translation
 
-Studying syntactic and structural divergence between English and Nepali translation pairs.
+Working on linguistic and structural challenges involved in English–Nepali translation systems.
 
-### 📗 Low-Resource Language Technology
+### 📗 Translation Evaluation
 
-Exploring ways to improve representation and evaluation for Nepali and other low-resource languages.
+Exploring both automatic and human evaluation methodologies for machine translation, including BLEU, BLEURT, BERTScore and qualitative linguistic evaluation.
 
-### 📙 Multiword Expressions & Linguistic Complexity
+### 📙 Linguistic Divergence & Translation Complexity
 
-Working on benchmark datasets and linguistic categorization for Nepali MWEs.
+Studying syntactic divergence, structural shifts, ambiguity, lexical gaps, cultural translation, echo words, onomatopoeia, and other translation complexities between English and Nepali.
 
-### 📕 Translation Evaluation
+### 📕 POS, NER & Linguistic Annotation
 
-Experimenting with BLEU, BLEURT, BERTScore and human evaluation methodologies.
+Interested in language annotation tasks involving part-of-speech tagging, named entity recognition, and linguistic categorization for low-resource NLP.
+
+### 📓 Multiword Expressions & Low-Resource Language Technology
+
+Working on benchmark datasets and linguistic resource development for Nepali NLP.
 
 ---
 
@@ -81,10 +90,11 @@ Outside academics and NLP, I spend much of my time:
 
 * writing Nepali poetry and essays
 * reading literature across languages
-* exploring folklore and culture
+* exploring folklore, culture and literary criticism
+* researching masculinities in Nepali literature and essay traditions
 * thinking about language as memory, identity and lived experience
 
-I strongly believe that low-resource languages deserve not only technological representation, but also cultural dignity in digital spaces.
+I strongly believe that low-resource languages deserve not only technological representation but also cultural dignity in digital spaces.
 
 ---
 
@@ -110,7 +120,7 @@ Working on multilingual language resources, translation, and evaluation.
 
 ## 📫 Connect With Me
 
-* LinkedIn: *(add your LinkedIn link here)*
+* LinkedIn: *(www.linkedin.com/in/anudeep-sharma-337aa0207)*
 * Email: [anudeep2688@gmail.com](mailto:anudeep2688@gmail.com)
 
 ---
